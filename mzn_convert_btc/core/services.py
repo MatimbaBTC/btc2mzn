@@ -49,4 +49,4 @@ if __name__ == "__main__":
         else:
             print("Não foi possível calcular a conversão.")
     except ValueError:
-        print("Digite um número válido.")
+        print("Digite um número válido")
